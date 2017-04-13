@@ -3,10 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/cdwue/OneDrive/Documents/NetBeansProjects/fantasy-baseball/src/fantasy/baseball/FantasyBaseball.java</file>
+            <file>file:/C:/Users/cdwue/OneDrive/Documents/NetBeansProjects/fantasy-baseball/src/fantasy/baseball/Register.java</file>
+            <file>file:/C:/Users/cdwue/OneDrive/Documents/NetBeansProjects/fantasy-baseball/src/fantasy/baseball/CreateTeam.java</file>
             <file>file:/C:/Users/cdwue/OneDrive/Documents/NetBeansProjects/fantasy-baseball/src/fantasy/baseball/Db.java</file>
+            <file>file:/C:/Users/cdwue/OneDrive/Documents/NetBeansProjects/fantasy-baseball/src/fantasy/baseball/Home.java</file>
             <file>file:/C:/Users/cdwue/OneDrive/Documents/NetBeansProjects/fantasy-baseball/src/fantasy/baseball/MainMenu.java</file>
             <file>file:/C:/Users/cdwue/OneDrive/Documents/NetBeansProjects/fantasy-baseball/src/fantasy/baseball/Login.java</file>
+            <file>file:/C:/Users/cdwue/OneDrive/Documents/NetBeansProjects/fantasy-baseball/src/fantasy/baseball/AddPlayer.java</file>
         </group>
     </open-files>
 </project-private>
